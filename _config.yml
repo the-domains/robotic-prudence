@@ -1,0 +1,14 @@
+layout_spectrum: 0.7303217882290483
+typography_spectrum: 0.7536620474420488
+color:
+  brandStrength: 0.4536309326067567
+  lightness: 0.12991753756068647
+  saturation: 0.4621578799560666
+  rhythmicContrast: 0.4730252337176353
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: robotic prudence
